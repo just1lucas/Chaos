@@ -84,7 +84,7 @@ det_list_1.pop(len(det_list_1)-1)
 rnd_list_0.pop(0)
 rnd_list_1.pop(len(rnd_list_1)-1)
 
-#Diagram 2____ Phasendiagram
+#Diagram 3____ Phasendiagram
 
 plt.figure(figsize=(12,6))
 
