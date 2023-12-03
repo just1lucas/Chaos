@@ -109,4 +109,3 @@ ax.set_ylabel("Y(t)")
 ax.set_zlabel("Z(t)")
 ax.set_title("Lorenz Attractor")
 plt.show()
-
